@@ -2,7 +2,7 @@
     "Version": "2012-10-17",
     "Statement": [
         {
-            "Sid": "Statement1",
+            "Sid": "Permiso para acceso público",
             "Effect": "Allow",
             "Principal": "*",
             "Action": "s3:GetObject",
